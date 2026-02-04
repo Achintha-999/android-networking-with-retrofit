@@ -6,7 +6,7 @@ import io.jsonwebtoken.security.Keys;
 import java.util.Date;
 
 public class JwtUtil {
-    private static final String SECRET = "<YOUR SECRET HERE>";
+    private static final String SECRET = "<YOUR JWT SECRET HERE>";
 
     public static String generateToken(String email) {
 
