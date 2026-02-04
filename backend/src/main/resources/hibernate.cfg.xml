@@ -10,7 +10,7 @@
         jdbc:mysql://localhost:3306/network_practical?allowPublicKeyRetrieval=true&amp;useSSL=false
     </property>
     <property name="hibernate.connection.username">root</property>
-    <property name="hibernate.connection.password">Achintha@54499?</property>
+    <property name="hibernate.connection.password"><YOUR PASSWORD></property>
     <property name="hibernate.hbm2ddl.auto">update</property>
     <property name="hibernate.show_sql">true</property>
 
