@@ -37,3 +37,17 @@ build/
 
 ### Mac OS ###
 .DS_Store
+# IDEs
+.idea/
+*.iml
+.gradle/
+
+# Build files
+backend/target/
+mobile/app/build/
+mobile/.gradle/
+
+# SECRETS (Do not upload these!)
+local.properties
+.env
+application-secrets.properties
