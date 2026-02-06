@@ -1300,27 +1300,6 @@ Gradle sync failed: Could not resolve all dependencies
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### 📱 Mobile App Screens
-
-| Login Screen | Student List | Search Feature |
-|:---:|:---:|:---:|
-| 🔐 User Authentication | 📋 RecyclerView Display | 🔍 AutoComplete Search |
-
-### 🧪 API Testing
-
-| Postman Login | Get Students | Token Refresh |
-|:---:|:---:|:---:|
-| ✅ JWT Token Generated | 📊 JSON Response | 🔄 New Access Token |
-
-</div>
-
-> 📸 *Add your actual screenshots here by replacing the table cells with image links*
-
----
 
 ## 🎓 Learning Resources
 
@@ -1332,12 +1311,7 @@ Gradle sync failed: Could not resolve all dependencies
 - 📕 [JWT Introduction](https://jwt.io/introduction)
 - 📓 [Android Developer Guide](https://developer.android.com/guide)
 
-### 🎥 Video Tutorials
 
-- 🎬 Retrofit Tutorial for Android
-- 🎬 REST API with Java Jersey
-- 🎬 JWT Authentication Explained
-- 🎬 Hibernate ORM Tutorial
 
 ---
 
@@ -1370,17 +1344,7 @@ Contributions are welcome! Please follow these steps:
 
 This project is created for **educational purposes** and is free to use.
 
-```
-MIT License
 
-Copyright (c) 2024 Achintha-999
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction.
-```
-
----
 
 ## 👨‍💻 Author
 
